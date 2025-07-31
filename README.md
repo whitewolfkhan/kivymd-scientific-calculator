@@ -31,7 +31,7 @@ Screenshots
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/kivymd-scientific-calculator.git
+git clone https://github.com/whitewolfkhan/kivymd-scientific-calculator.git
 cd kivymd-scientific-calculator
 
 kivymd-scientific-calculator/
