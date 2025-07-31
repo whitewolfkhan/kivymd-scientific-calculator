@@ -1,6 +1,6 @@
 # 🔢 KivyMD Scientific Calculator
 
-A powerful and modern scientific calculator built with **KivyMD** using Python. This app supports standard arithmetic operations, trigonometric calculations, expression history, and equation solving (linear & quadratic).
+A powerful and modern scientific calculator built with **KivyMD** using Python. This app supports standard arithmetic operations, trigonometric calculations, expression history, and equation solving (linear ,quadratic & 2, 3 unknowns), base conversion, bitwise converter, unit converter, matrix etc.
 
 ---
 
