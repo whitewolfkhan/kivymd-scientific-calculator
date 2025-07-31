@@ -18,6 +18,11 @@ A powerful and modern scientific calculator built with **KivyMD** using Python. 
 - ✅ Clean Material Design UI
 
 
+Screenshots
+<img width="1123" height="703" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/602ec826-9946-4ecd-a094-0e232c82daa2" />
+
+
+
 
 ## 📦 Installation
 
