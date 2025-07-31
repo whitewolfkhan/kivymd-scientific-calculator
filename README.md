@@ -34,8 +34,9 @@ kivymd-scientific-calculator/
 
 Install dependencies:
   pip install kivy kivymd
+```
 
-Acknowledgments
-KivyMD for the UI framework
-NumPy for numerical operations
-SciPy for scientific computing
+Acknowledgments : 
+- KivyMD for the UI framework
+- NumPy for numerical operations
+- SciPy for scientific computing
