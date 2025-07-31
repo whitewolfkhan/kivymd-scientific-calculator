@@ -33,7 +33,7 @@ kivymd-scientific-calculator/
 └── LICENSE           # MIT License
 
 Install dependencies:
-  pip install kivy kivymd
+  pip install kivy kivymd numpy scipy
 ```
 
 Acknowledgments : 
