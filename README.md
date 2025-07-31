@@ -21,6 +21,9 @@ A powerful and modern scientific calculator built with **KivyMD** using Python. 
 Screenshots
 <img width="1123" height="703" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/602ec826-9946-4ecd-a094-0e232c82daa2" />
 
+<img width="1366" height="768" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/6f78ad66-6a5d-426a-ae3e-d124ce244f3b" />
+
+
 
 
 
